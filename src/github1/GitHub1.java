@@ -20,7 +20,8 @@ public class GitHub1 {
         System.out.println("Detta är en ny rad");
         System.out.println("Detta är en tredje rad.");
         //ny användare
-        
+        //Mer kod av orginalskaparen
+        System.out.println("Sista raden i projektet");
     }
     
 }
